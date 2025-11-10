@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "bai01",
-    "slug": "bai01",
+    "name": "TH04",
+    "slug": "TH04",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "bai01",
+    "scheme": "th04",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
